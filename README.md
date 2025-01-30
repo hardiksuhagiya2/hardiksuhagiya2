@@ -24,8 +24,9 @@
 ---
 
 ### 📈 Projects
-!advanced-search-app(https://advanced-search-app.vercel.app/)
-!air-bnb-listings(https://listing-app-beta.vercel.app/)
+!advanced-search-app(https://advanced-search-app.vercel.app/).
+!air-bnb-listings(https://listing-app-beta.vercel.app/).
+!LeetCode(https://leetcode.com/u/NwN9quJnlD/).
 
 ---
 
